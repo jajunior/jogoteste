@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jogo Um</string>
+
+    <string name="dummy_button">Botão de Teste</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="dummy_texto1">ISSO É UM TESTE!</string>
+</resources>
